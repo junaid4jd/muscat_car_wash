@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578659559078",
+    "project_id": "muscat-car-wash",
+    "storage_bucket": "muscat-car-wash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578659559078:android:9715417f420ac7df89b667",
+        "android_client_info": {
+          "package_name": "com.muscatCarWash.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578659559078-4pmabc64lc8qlufv9lphit7bgueg1ih2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDunOTHxlsMHqgSyY3CttCJTLAaxq7YxUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578659559078-4pmabc64lc8qlufv9lphit7bgueg1ih2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
