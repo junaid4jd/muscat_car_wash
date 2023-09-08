@@ -819,7 +819,7 @@ class _ServiceRequestScreenState extends State<ServiceRequestScreen> {
                                                     Padding(
                                                       padding: const EdgeInsets.only(left: 8,),
                                                       child: Text(
-                                                        "Payment : " + snapshot.data!.docs[index]["payment"].toString()
+                                                        "Payment : " + snapshot.data!.docs[index]["paymentMethod"].toString()
                                                         , style: TextStyle(
                                                           color: Colors.black, fontSize: 12, fontWeight: FontWeight.w500, height: 1.3),),
                                                     ),
