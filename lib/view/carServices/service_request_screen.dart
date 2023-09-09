@@ -596,7 +596,7 @@ class _ServiceRequestScreenState extends State<ServiceRequestScreen> {
                                                                   crossAxisAlignment: CrossAxisAlignment.start,
                                                                   mainAxisSize: MainAxisSize.min,
                                                                   children: [
-                                                                    const Text('Are you sure you want to approve this service?'),
+                                                                    const Text('Are you sure you want to generate report?'),
                                                                   ],
                                                                 ),
                                                               );

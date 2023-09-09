@@ -25,7 +25,7 @@ class _CarRepairListViewState extends State<CarRepairListView> {
         elevation: 0,
         backgroundColor: AppColors.lightBlueColor2,
         title: Text(
-          'Car Repair',
+          'Nearest Car Services',
           style: TextStyle(
               fontSize: 19, fontWeight: FontWeight.w600, color: Colors.white),
         ),
